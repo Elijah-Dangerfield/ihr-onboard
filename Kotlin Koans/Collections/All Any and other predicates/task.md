@@ -15,9 +15,9 @@ Implement the following functions using
 
 ```kotlin
 val numbers = listOf(-1, 0, 2)
-val isZero: (Int) -> Boolean = { it == 0 }
+val isZero: (Int) -&gt; Boolean = { it == 0 }
 numbers.any(isZero) == true
 numbers.all(isZero) == false
 numbers.count(isZero) == 1
-numbers.find { it > 0 } == 2
+numbers.find { it &gt; 0 } == 2
 ```

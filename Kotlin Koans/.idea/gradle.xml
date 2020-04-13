@@ -12,21 +12,15 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Builders/Builders how it works" />
-            <option value="$PROJECT_DIR$/Builders/Builders implementation" />
             <option value="$PROJECT_DIR$/Builders/Function literals with receiver" />
             <option value="$PROJECT_DIR$/Builders/Html builders" />
             <option value="$PROJECT_DIR$/Builders/String and map builders" />
             <option value="$PROJECT_DIR$/Builders/The function apply" />
-            <option value="$PROJECT_DIR$/Classes/Data classes" />
-            <option value="$PROJECT_DIR$/Classes/Extension functions" />
-            <option value="$PROJECT_DIR$/Classes/Rename on import" />
-            <option value="$PROJECT_DIR$/Classes/Sealed classes" />
-            <option value="$PROJECT_DIR$/Classes/Smart casts" />
             <option value="$PROJECT_DIR$/Collections/All Any and other predicates" />
             <option value="$PROJECT_DIR$/Collections/Associate" />
+            <option value="$PROJECT_DIR$/Collections/Associate (1)" />
             <option value="$PROJECT_DIR$/Collections/Compound tasks" />
             <option value="$PROJECT_DIR$/Collections/Filter map" />
-            <option value="$PROJECT_DIR$/Collections/FlatMap" />
             <option value="$PROJECT_DIR$/Collections/Fold" />
             <option value="$PROJECT_DIR$/Collections/Getting used to new style" />
             <option value="$PROJECT_DIR$/Collections/GroupBy" />
@@ -34,6 +28,7 @@
             <option value="$PROJECT_DIR$/Collections/Max min" />
             <option value="$PROJECT_DIR$/Collections/Partition" />
             <option value="$PROJECT_DIR$/Collections/Sequences" />
+            <option value="$PROJECT_DIR$/Collections/Sequences (1)" />
             <option value="$PROJECT_DIR$/Collections/Sort" />
             <option value="$PROJECT_DIR$/Collections/Sum" />
             <option value="$PROJECT_DIR$/Conventions/Comparison" />
@@ -54,6 +49,11 @@
             <option value="$PROJECT_DIR$/Properties/Delegates how it works" />
             <option value="$PROJECT_DIR$/Properties/Lazy property" />
             <option value="$PROJECT_DIR$/Properties/Properties" />
+            <option value="$PROJECT_DIR$/old_Classes/Data classes" />
+            <option value="$PROJECT_DIR$/old_Classes/Extension functions" />
+            <option value="$PROJECT_DIR$/old_Classes/Rename on import" />
+            <option value="$PROJECT_DIR$/old_Classes/Sealed classes" />
+            <option value="$PROJECT_DIR$/old_Classes/Smart casts" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

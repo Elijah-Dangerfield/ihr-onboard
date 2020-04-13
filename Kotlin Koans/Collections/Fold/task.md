@@ -9,7 +9,7 @@ You can use the `Customer.getOrderedProducts()` which was defined in the previou
 
 ```kotlin
 listOf(1, 2, 3, 4)
-    .fold(1) { partProduct, element ->
+    .fold(1) { partProduct, element -&gt;
         element * partProduct
     } == 24
 ```

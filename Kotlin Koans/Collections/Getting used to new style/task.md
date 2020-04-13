@@ -7,11 +7,11 @@ so that its behavior stays the same and isn't modified in any way.
 
 ```kotlin
 fun doSomethingWithCollectionOldStyle(
-    collection: Collection<String>
-): Collection<String>? {
-    val groupsByLength = mutableMapOf<Int, MutableList<String>>()
+    collection: Collection
+): Collection? {
+    val groupsByLength = mutableMapOf&gt;()
     for (s in collection) {
-        var strings: MutableList<String>? = groupsByLength[s.length]
+        var strings: MutableList? = groupsByLength[s.length]
         if (strings == null) {
             strings = mutableListOf()
             groupsByLength[s.length] = strings
@@ -21,7 +21,7 @@ fun doSomethingWithCollectionOldStyle(
 
     var maximumSizeOfGroup = 0
     for (group in groupsByLength.values) {
-        if (group.size > maximumSizeOfGroup) {
+        if (group.size &gt; maximumSizeOfGroup) {
             maximumSizeOfGroup = group.size
         }
     }

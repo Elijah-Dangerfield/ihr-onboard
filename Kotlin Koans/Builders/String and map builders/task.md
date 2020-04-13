@@ -3,7 +3,7 @@
 Function literals with receiver are very useful for creating builders, for example:
 
 ```kotlin
-fun buildString(build: StringBuilder.() -> Unit): String {
+fun buildString(build: StringBuilder.() -&gt; Unit): String {
     val stringBuilder = StringBuilder()
     stringBuilder.build()
     return stringBuilder.toString()

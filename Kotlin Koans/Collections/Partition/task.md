@@ -11,7 +11,7 @@ than delivered orders using
 ```kotlin
 val numbers = listOf(1, 3, -4, 2, -11)
 val (positive, negative) =
-    numbers.partition { it > 0 }
+    numbers.partition { it &gt; 0 }
 
 positive == listOf(1, 3, 2)
 negative == listOf(-4, -11)
