@@ -5,8 +5,8 @@ fun sendMessageToClient(
     message ?: return
 
     client.personalInfo?.let {
-        if(!it.email.isNullOrEmpty())
-        mailer.sendMessage(it.email, message)
+        if(it.email != null)
+            mailer.sendMessage(it.email, message)
     }
 }
 

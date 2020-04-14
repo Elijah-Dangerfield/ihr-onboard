@@ -1,15 +1,15 @@
 content:
-- Introduction
-- Sort
-- Filter map
-- All Any and other predicates
-- Max min
-- Sum
-- Associate
-- GroupBy
-- Partition
-- FlatMap
-- Fold
-- Compound tasks
-- Sequences
-- Getting used to new style
+- Introduction (1)
+- Sort (1)
+- Filter map (1)
+- All Any and other predicates (1)
+- Max min (1)
+- Sum (1)
+- GroupBy (1)
+- Associate (2)
+- Partition (1)
+- FlatMap (1)
+- Fold (1)
+- Compound tasks (1)
+- Getting used to new style (1)
+- Sequences (3)
