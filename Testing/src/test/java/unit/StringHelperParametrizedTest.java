@@ -17,7 +17,7 @@ public class StringHelperParametrizedTest {
     private String input;
     private String expectedOutput;
     StringHelper helper = new StringHelper();
-    
+
     public StringHelperParametrizedTest(String input, String expectedOutput) {
         this.input = input;
         this.expectedOutput = expectedOutput;
