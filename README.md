@@ -3,7 +3,7 @@
 
 - [ ] Kotlin Koans
 - [ ] Udemy Testing
-- [ ] Udemy Git
+- [X] Udemy Git
 - [ ] Dagger
 - [ ] MVI
 - [ ] Testing Code lab
