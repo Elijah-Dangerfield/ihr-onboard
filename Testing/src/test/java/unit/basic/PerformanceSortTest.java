@@ -1,7 +1,8 @@
-package unit;
+package unit.basic;
 
 import junit.framework.TestCase;
 import org.junit.Test;
+import unit.PerformanceSort;
 
 public class PerformanceSortTest extends TestCase {
     PerformanceSort sorter = new PerformanceSort();

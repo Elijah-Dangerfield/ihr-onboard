@@ -1,7 +1,8 @@
-package unit;
+package unit.basic;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import unit.StringHelper;
 
 import static org.junit.Assert.*;
 

@@ -1,8 +1,10 @@
-package unit;
+package unit.stub;
 
 import junit.framework.TestCase;
-import org.junit.Before;
 import org.junit.Test;
+import unit.TodoBusiness;
+import unit.TodoService;
+
 import java.util.List;
 
 public class TodoBusinessTest extends TestCase {
@@ -17,4 +19,6 @@ public class TodoBusinessTest extends TestCase {
         List<String> result = todoBusiness.retrieveTodosRelatedToSpring("Test");
         assertEquals(result.size(), 2);
     }
+
+
 }

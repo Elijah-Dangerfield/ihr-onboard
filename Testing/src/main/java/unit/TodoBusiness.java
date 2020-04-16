@@ -7,7 +7,7 @@ public class TodoBusiness {
 
     private TodoService todoService;
 
-    TodoBusiness(TodoService todoService) {
+    public TodoBusiness(TodoService todoService) {
         //dependecy injection (conscructor)
         this.todoService = todoService;
     }

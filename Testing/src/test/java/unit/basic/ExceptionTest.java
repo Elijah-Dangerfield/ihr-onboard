@@ -1,4 +1,4 @@
-package unit;
+package unit.basic;
 
 import org.junit.Test;
 
