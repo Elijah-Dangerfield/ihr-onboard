@@ -4,7 +4,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 192
+  - offset: 524
     length: 69
     placeholder_text: 'operator fun MyDate.plus(timeInterval: TimeInterval): MyDate
       = TODO()'
@@ -24,8 +24,8 @@ files:
       operator fun MyDate.plus(timeIntervals: RepeatedTimeInterval) =
               addTimeIntervals(timeIntervals.timeInterval, timeIntervals.number)
     selected: false
-    status: Unchecked
-  - offset: 371
+    status: Solved
+  - offset: 703
     length: 64
     placeholder_text: TODO("Uncomment") //return today + YEAR * 2 + WEEK * 3 + DAY
       * 5
@@ -35,7 +35,7 @@ files:
     initialized_from_dependency: false
     possible_answer: return today + YEAR * 2 + WEEK * 3 + DAY * 5
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     import TimeInterval.*
 
@@ -105,5 +105,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
