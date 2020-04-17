@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="846fe630-da75-43c1-80fc-a5edfa010162" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Properties/Properties (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties (1)/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Properties (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties (1)/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Builders how it works (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Builders how it works (1)/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Builders how it works (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Builders how it works (1)/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Builders implementation (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Builders implementation (1)/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Builders implementation (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Builders implementation (1)/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Function literals with receiver (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Function literals with receiver (1)/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Function literals with receiver (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Function literals with receiver (1)/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Html builders (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Html builders (1)/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Html builders (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Html builders (1)/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/String and map builders (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/String and map builders (1)/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/String and map builders (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/String and map builders (1)/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/The function apply (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/The function apply (1)/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/The function apply (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/The function apply (1)/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/Generic functions (1)/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/Generic functions (1)/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/Generic functions (1)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/Generic functions (1)/task-info.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
