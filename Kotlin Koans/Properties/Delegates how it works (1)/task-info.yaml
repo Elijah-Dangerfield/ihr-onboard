@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 302
-    length: 6
+    length: 56
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,8 +13,8 @@ files:
     initialized_from_dependency: false
     possible_answer: return timeInMillis!!.toDate()
     selected: false
-    status: Unchecked
-  - offset: 403
+    status: Solved
+  - offset: 453
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -23,7 +23,7 @@ files:
     initialized_from_dependency: false
     possible_answer: timeInMillis = value.toMillis()
     selected: false
-    status: Unchecked
+    status: Solved
   text: |+
     import kotlin.properties.ReadWriteProperty
     import kotlin.reflect.KProperty
@@ -83,5 +83,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
